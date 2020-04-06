@@ -50,7 +50,7 @@ header img{
 }
 header img:hover{
   transform: scale(1.2) rotate(5deg);
-  border-radius: 20px;
+  border-radius: 70%;
 }
 .tag{
   display: table;

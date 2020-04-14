@@ -110,7 +110,6 @@ padding: 60px;
 .tag-blue{
   background-color: #0399ff;
 }
-<<<<<<< HEAD
 .card01{
   background-color:#fffe9c ;
   border-radius: 40px;
@@ -147,7 +146,7 @@ padding: 60px;
 }
 .overlay h2{
   text-align: center;
-  color: green;
+  color: yellow;
 
 }
 .content-relative02{
@@ -172,6 +171,6 @@ padding: 60px;
 }
 .overlay02 h2{
   text-align: center;
-  color: yellow;
+  color: green;
 
 }
